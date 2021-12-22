@@ -1,3 +1,3 @@
-# 공부 저장소
+# 개발 위키
 
-공부한 내용을 [위키](https://github.com/taptorestart/study/wiki)로 정리 중입니다. 
+[위키](https://github.com/taptorestart/study/wiki) 
